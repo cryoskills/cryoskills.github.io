@@ -1,0 +1,46 @@
+$display-font-family:
+    "Dhurjati",
+    "Roboto",
+    "Helvetica Neue"
+;
+
+$heading-font-family:
+    "Open Sans", sans-serif, 
+;
+
+$font-family-sans-serif: $heading-font-family;
+
+$primary: #0088aa;
+$byoice-text-color: #666;
+$btn-color: #fff;
+
+$dark: $byoice-text-color;
+// Previous heading
+// $headings-font-family: $display-font-family;
+// New heading
+$headings-font-family: $heading-font_family;
+$headings-font-weight: bold;
+
+// .btn-primary {
+// }
+
+// Import all of Bootstrap's CSS
+@import "bootstrap/scss/bootstrap";
+
+.display-color {
+    color: $primary;
+}
+
+// h1 {
+//     text-transform: uppercase;
+// }
+
+p {
+    line-height: 150%;
+}
+
+#content h1 {
+    padding-bottom: 0.3em;
+    margin-bottom: 0.3em;
+    border-bottom: 1px solid #ccc !important;
+}

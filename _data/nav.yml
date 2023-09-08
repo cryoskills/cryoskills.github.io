@@ -1,0 +1,8 @@
+- name: Home
+  url: /index.html
+- name: Apply
+  url: /apply.html
+- name: Course Details
+  url: /about.html
+# - name: Course Content
+#   url: /course
