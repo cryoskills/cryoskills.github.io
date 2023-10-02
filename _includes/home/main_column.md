@@ -21,5 +21,5 @@ A webinar will be hosted on **Friday 6 October 2023** at **9:00am GMT** to provi
 **Sign up** using the link below to attend:
 
 <div class="alert alert-warning" role="alert">
-    The webinar registration link will be available from <strong>12:00pm (BST) on 3 October 2023</strong>.
+    The webinar registration link will be available from <strong>12:00pm (BST) on Wednesday 4 October 2023</strong>.
 </div>
