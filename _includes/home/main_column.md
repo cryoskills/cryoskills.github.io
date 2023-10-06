@@ -22,5 +22,5 @@ A second webinar will be hosted on **Tuesday 17 October 2023** at **11:00am BST*
 
 You can watch a recording of the previous webinar from Friday 6 October below.
 
-<iframe id="ytplayer" type="text/html" class="col-12" width="690px" height="388px" src="https://youtu.be/SYny-Psloe8?si=ZzdE1BlWfNgWfsOO?autoplay=0&origin=http://www.cryoskills.com" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" class="col-12" width="690px" height="388px" src="https://youtube.com/embed/SYny-Psloe8?si=ZzdE1BlWfNgWfsOO?autoplay=0&origin=http://www.cryoskills.com" frameborder="0"></iframe>
 
