@@ -102,6 +102,7 @@ The course is organised by the following persons:
 
 - Mike Prior-Jones (Cardiff University; lead organiser)
 - Liz Bagshaw (University of Bristol)
+- Lisa Craw (Cardiff University)
 - Simon Filhol (University of Oslo)
 - Emma Fisher (British Antarctic Survey)
 - Donna Frater (NERC; IDEA consultant)
@@ -110,4 +111,3 @@ The course is organised by the following persons:
 - Larissa van der Laan (University of Copenhagen)
 - Jenny Turton (Arctic Frontiers)
 - TJ Young (University of St Andrews)
-

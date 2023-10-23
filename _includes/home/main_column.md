@@ -16,11 +16,13 @@ Applications close on **29 October 2023**.
 You will need to complete an **application form** and **optional EDI survey**. Read details on the application process [here]({{ site.baseurl }}{% link apply.html %}). 
 
 # Webinar and Q&A
-A second webinar will be hosted on **Tuesday 17 October 2023** at **11:00am BST** to provide information on what you can expect from the course and answer any queries.  
+You can watch a recording of the previous webinars from Friday 6 October and Tuesday 17 October below.  The presented content of each webinar is the same, while the Q&A sections may vary. 
 
-<a type="button" class="btn btn-info px-4" href="https://cardiff.zoom.us/webinar/register/WN_6nL75G19TH6hjCXXiYU0SA#/registration">Register for Webinar</a>
-
-You can watch a recording of the previous webinar from Friday 6 October below.
-
+### Friday 6 October
 <iframe id="ytplayer" type="text/html" class="col-12" width="690px" height="388px" src="https://youtube.com/embed/SYny-Psloe8?si=ZzdE1BlWfNgWfsOO?autoplay=0&origin=http://www.cryoskills.com" frameborder="0"></iframe>
+
+<br/>
+
+### Tuesday 17 October
+<iframe id="ytplayer" type="text/html" class="col-12" width="690px" height="388px" src="https://youtube.com/embed/1VKJjF6_fss?si=ZzdE1BlWfNgWfsOO?autoplay=0&origin=http://www.cryoskills.com" frameborder="0"></iframe>
 
