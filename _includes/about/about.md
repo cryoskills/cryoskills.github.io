@@ -85,18 +85,15 @@ Applications are likely to be competitive and so we also expect you to demonstra
 Previous experience of cold-regions fieldwork is not required.
 
 # Application process
+Applications for the **April 2024** version of the course are now closed.
 
-To apply, please complete the [application form]({{site.baseurl}}{% link apply.html %}) before **29 October 2023**. We recommend that you draft your longer responses in a separate document so that you can save them before pasting them into the form, just in case there are any problems with the form.
-
-We’ll tell you whether you’ve been awarded a place on the course by **10 November 2023**. You will be asked to confirm that you will attend the course by **1 December 2023** - if you find you cannot attend, we will offer your place to someone on the reserve list.
-
-Please refer to the [How to Apply page]({{site.baseurl}}{% link apply.html %}) for further information about how to prepare your application.
+We’ll let you know whether you’ve been awarded a place on the course by **10 November 2023**. You will be asked to confirm that you will attend the course by **1 December 2023** - if you find you cannot attend, we will offer your place to someone on the reserve list.
 
 # Costs
 
 All expenses related to the course, including materials, travel, and subsistence, are fully covered by a NERC Advanced Training Grant. We intend that the majority of the course costs (including air and train tickets) will be paid for directly by the organisers, but participants who do incur course-related expenses will be able to claim for reimbursement from Cardiff University.
 
-# Course organisers and lecturers
+# <a name="organisers"></a> Course organisers and lecturers
 
 The course is organised by the following persons:
 
