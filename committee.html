@@ -1,0 +1,19 @@
+---
+title: Organising Committee
+banner_image: /assets/img/greenland_camp.jpg
+---
+<div class="my-5 container text-left">
+    <div class="row row-lg-cols-5 g-lg-5">
+    {% for item in site.data.committee %}
+    <div class="col-lg-4 mb-3 border-bottom border-0-lg">
+        <div class="clearfix">
+            <img src="{{ item.photo_url }}" class="col-3 me-3 mb-2 ms-3 rounded float-end" alt="...">
+            <h3>{{ item.name }}</h3>
+            <p> <!--have to figure out how to wrap this-->
+                {{ item.description }}
+              </p>
+        </div>
+    </div>
+    {% endfor %}
+    </div>
+</div>
