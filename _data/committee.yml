@@ -1,10 +1,22 @@
+- name: Liz Bagshaw
+  photo_url: /assets/img/instructors/liz_bagshaw.png
+  description: Liz Bagshaw is an Associate Professor at the School of Geographical Sciences at the University of Bristol. She is a glaciologist and biogeochemist and undertook her PhD in Antarctic biogeochemistry at the University of Bristol, followed by postdoctoral training in glaciology and aerospace engineering, also at Bristol. In 2014 she took up a lectureship in Aquatic Biogeochemistry at Cardiff University, where she was promoted to Reader in 2022. She returned to Bristol in 2023 to take up her current position in the Bristol Glaciology Centre, focusing on Arctic Environmental Change. She’s really interested in developing new methods to measure meltwater in the glacial environment, to understand glacier hydrology and microbial habitability. She’s worked in Antarctica for four seasons, Greenland for about 12 seasons, and tried some experiments in Svalbard and several Alpine locations. 
+#
 - name: Lisa Craw
   photo_url: /assets/img/instructors/lisa_craw.png
   description: Lisa started out studying structural geology in her home country of New Zealand, before discovering that ice is actually a rock, and moving to a PhD in glaciology at the University of Tasmania. She recently moved to Prifysgol Caerdydd (Cardiff University) to work with Mike and Jono on team Cryoegg. Lisa specialises in physical properties of ice, particularly microstructure and thermal properties and their effect on rheology. She had never touched a breadboard until six months ago. 
 #
+- name: Sam Doyle
+  photo_url: /assets/img/instructors/sam_doyle.png
+  description: Sam is a field glaciologist working for the University of Sheffield as a Research Associate and Aberystwyth University as a Lecturer. His research focusses on ice sheet subglacial hydrology and ice dynamics. He has expertise in GNSS, geophysics and borehole drilling and instrumentation including sensor design. He has extensive field experience in Greenland and has also worked in Nepal and Antarctica. In his spare time, he is a mountain rescue volunteer in North Wales.
+#
 - name: Emma Fisher
   photo_url: /assets/img/instructors/emma_fisher.png
   description: Emma is an Ice Core Drilling Engineer at the British Antarctic Survey. She maintains, operates, and develops new drilling equipment to collect and analyse ice cores, and has worked in the Arctic and Antarctica. Previously she designed and tested bespoke instrumentation to improve the efficiency of jet engines. While her background is in mechanical engineering, she also has a broad range of experience of electrical systems, programming, and automation of equipment in extreme environments.
+#
+- name: Donna Frater
+  photo_url: /assets/img/instructors/donna_frater.png
+  description: Donna is a sedimentary geologist with expertise in exploration and operations in Australia, the Pacific and Africa. She has expertise in remote field logistics, drilling, camp setup and field safety. She has worked in remote Australia, Pacific Islands, Zimbabwe and has been to the Cape Adare area of Antarctica, including to the heritage Mawson and Scott Huts. She has followed a twenty year scientific and project management career by studying a Masters in Gender, Development and Globalization at LSE and contributing to inclusion and accessibility to STEM in the UK and Europe. She feels it is very important to broaden the accessibility to science and research to enable the broadest views, and solutions, of issues such as climate change and indigenous connection to land.
 #
 - name: Jono Hawkins
   photo_url: /assets/img/instructors/jono_hawkins.png
