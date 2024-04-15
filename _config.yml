@@ -39,7 +39,7 @@ defaults:
     banner: true
     banner_text: false
     banner_source: false
-    banner_image: /assets/img/banner_default_sm.jpg
+    banner_image: /assets/img/course2024/sensors_outside_hawkins_jono.jpg
 
 # Build settings
 # theme: minima
