@@ -1,10 +1,21 @@
 - name: Home
   url: /index.html
-# - name: Apply
-#   url: /apply.html
-- name: Course Details
-  url: /about.html
-# - name: Course Content
-#   url: /course
+#
+- name: About
+  type: submenu
+  pages:
+  #
+  - name: Course Information
+    url: /about.html
+  #
+  - name: Haugastøl 2024
+    url: /about/haugastol-2024.html
+#
+# - name : Datalogger
+#   type: submenu
+#   pages:
+#     - name: About
+#       url: /datalogger/index.html
+#
 - name: Committee
   url: /committee.html
