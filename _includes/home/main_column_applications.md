@@ -1,6 +1,6 @@
 # What is the CryoSkills course?
 A week-long practical field course where you will learn to **design, build and deploy sensors and instrumentation** for cold regions.
-More details [here]({{ site.baseurl }}{% link about.html %})
+More details [here]({% link about.html %})
 
 ## Where will it take place?
 The course will take place in sub-Arctic Norway at an activity centre in Haugastøl.

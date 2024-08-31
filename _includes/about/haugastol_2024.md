@@ -15,7 +15,7 @@ Haugastøl is on the main railway line between Oslo and Bergen. Coming from the 
 
 <!-- embed HTML within markdown -->
 <figure class="figure">
-<img src="{{ site.baseurl }}{% link assets/img/course2024/haugastol_wadlow_imogen.jpg %}" class="figure-img img-fluid rounded" alt="Accommodation at Haugastøl Turistcenter in the snow.">
+<img src="{% link assets/img/course2024/haugastol_wadlow_imogen.jpg %}" class="figure-img img-fluid rounded" alt="Accommodation at Haugastøl Turistcenter in the snow.">
 <figcaption class="figure-caption">Looking across the accommodation at Haugastøl Turistcenter and Sløddfjorden.
 Photo Credit: Imogen Wadlow.</figcaption>
 </figure>
